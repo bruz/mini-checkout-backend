@@ -1,0 +1,4 @@
+project=mini_checkout
+architecture=container
+test=minitest
+template=erb
